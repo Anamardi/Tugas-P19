@@ -1,7 +1,7 @@
-
 <?php
 
 namespace App\Http\Controllers;
+
 use Illuminate\Http\Request;
 use App\Models\Device;
 use App\Models\Log;
@@ -55,4 +55,3 @@ class DeviceController extends Controller
 // <?php
 //
 // namespace App\Models;
-    
